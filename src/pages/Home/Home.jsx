@@ -1,5 +1,6 @@
 import HomeStyled from "./styled";
 
+//Component De Renderização do Home
 export default function Home (){
   return (
     <HomeStyled>

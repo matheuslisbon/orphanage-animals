@@ -21,7 +21,7 @@ div.home{
   }
   div.home h1{
     font-family:'Fredoka One';
-    color: #F27272;
+    color: #1764C2cc;
 
   }
   div.home p{

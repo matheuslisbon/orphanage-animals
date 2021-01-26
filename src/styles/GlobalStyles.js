@@ -14,6 +14,9 @@ a{
   text-decoration:none;
   list-style:none;
 }
+button{
+  outline: 0;
+}
 body{
   background: white;
   color:#353535;
